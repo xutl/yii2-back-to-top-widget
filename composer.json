@@ -1,17 +1,25 @@
 {
-    "name": "xutl/yii2-back-to-top-widget",
-    "description": "A Yii 2 widget to add back-to-top button.",
-    "keywords": ["yii2", "extension", "scroll", "top", "back-to-top"],
-    "type": "yii2-extension",
-    "license": "MIT",
-    "support": {
-        "issues": "https://github.com/xutl/yii2-back-to-top-widget/issues",
-        "source": "https://github.com/xutl/yii2-back-to-top-widget"
-    },
-    "require": {
-        "yiisoft/yii2": "~2.0.0"
-    },
-    "autoload": {
-        "psr-4": { "xutl\\backtotop\\": "" }
+  "name": "xutl/yii2-back-to-top-widget",
+  "description": "A Yii 2 widget to add back-to-top button.",
+  "keywords": [
+    "yii2",
+    "extension",
+    "scroll",
+    "top",
+    "back-to-top"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/xutl/yii2-back-to-top-widget/issues",
+    "source": "https://github.com/xutl/yii2-back-to-top-widget"
+  },
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "xutl\\backtop\\": ""
     }
+  }
 }

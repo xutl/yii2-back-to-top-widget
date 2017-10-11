@@ -1,0 +1,20 @@
+/**
+ * @link http://www.tintsoft.com/
+ * @copyright Copyright (c) 2012 TintSoft Technology Co. Ltd.
+ * @license http://www.tintsoft.com/license/
+ */
+
+.back-to-top {
+    display: none;
+    z-index: 10240;
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background-color: rgba(50, 50, 50, .9);
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
